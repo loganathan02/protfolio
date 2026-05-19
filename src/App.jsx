@@ -26,7 +26,7 @@ function App() {
     <>
       <nav>
         <div className="container nav-content">
-          <a href="#" className="logo">Loganathan<span>.</span></a>
+          <a href="#" className="logo">Loganathan V<span></span></a>
           <ul className="nav-links">
             <li><a href="#about">About</a></li>
             <li><a href="#experience">Experience</a></li>
@@ -44,8 +44,8 @@ function App() {
           <div className="container">
             <div className="hero-content animate-on-scroll">
               <span className="hero-greeting">Hi, my name is</span>
-              <h1 className="hero-title">Loganathan.</h1>
-              <h2 className="hero-subtitle">I build things for the web.</h2>
+              <h1 className="hero-title">Loganathan V</h1>
+              <h2 className="hero-subtitle">Full Stack Developer.</h2>
               <p className="hero-desc">
                 I'm a creative and detail-oriented Full Stack Developer with 2 years of hands-on experience in building scalable web applications using modern technologies like React, Node.js, PHP, and MySQL. Passionate about writing clean code and delivering efficient solutions.
               </p>
@@ -58,7 +58,7 @@ function App() {
         <section id="experience">
           <div className="container">
             <h2 className="section-title animate-on-scroll">Where I've Worked</h2>
-            
+
             <div className="timeline">
               <div className="timeline-item animate-on-scroll delay-1">
                 <div className="timeline-dot"></div>
@@ -66,7 +66,7 @@ function App() {
                   <h3 className="experience-title">FullStack Developer</h3>
                   <div className="experience-company">Version Technology, Chennai</div>
                   <div className="experience-date">May 2024 – Present</div>
-                  
+
                   <div className="project-box">
                     <h4 className="project-title">Billing Application</h4>
                     <ul className="project-details">
@@ -95,7 +95,7 @@ function App() {
         <section id="skills">
           <div className="container">
             <h2 className="section-title animate-on-scroll">My Toolkit</h2>
-            
+
             <div className="skills-grid">
               <div className="glass-card animate-on-scroll">
                 <div className="skill-category">
@@ -164,7 +164,7 @@ function App() {
         <section id="education">
           <div className="container">
             <h2 className="section-title animate-on-scroll">Education & Certifications</h2>
-            
+
             <div className="edu-grid">
               <div className="glass-card animate-on-scroll">
                 <h3>Bachelor of Information Technology</h3>
@@ -196,7 +196,7 @@ function App() {
             <div className="glass-card contact-container animate-on-scroll">
               <h2 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>Get In Touch</h2>
               <p>I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!</p>
-              
+
               <div className="contact-info">
                 <div className="contact-item">
                   <Mail className="contact-icon" />
@@ -204,7 +204,7 @@ function App() {
                 </div>
                 <div className="contact-item">
                   <Phone className="contact-icon" />
-                  <span>+91 9994134604</span>
+                  <span>+91 9514402841</span>
                 </div>
                 <div className="contact-item">
                   <MapPin className="contact-icon" />
@@ -219,7 +219,7 @@ function App() {
       </main>
 
       <footer style={{ textAlign: 'center', padding: '2rem', borderTop: '1px solid var(--glass-border)', marginTop: '4rem' }}>
-        <p style={{ color: 'var(--text-secondary)' }}>Built with React, Node.js, and Vanilla CSS by Loganathan</p>
+        <p style={{ color: 'var(--text-secondary)' }}>Built with React, Node.js, and Vanilla CSS by Loganathan V</p>
       </footer>
     </>
   );
