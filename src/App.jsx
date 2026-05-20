@@ -106,10 +106,10 @@ function App() {
                     <span className="skill-tag">JavaScript</span>
                     <span className="skill-tag">TypeScript</span>
                     <span className="skill-tag">HTML5 / CSS3</span>
-                    <span className="skill-tag">Material UI</span>
-                    <span className="skill-tag">Tailwind CSS</span>
-                    <span className="skill-tag">Bootstrap</span>
-                    <span className="skill-tag">SASS</span>
+                    {/* <span className="skill-tag">Material UI</span> */}
+                    {/* <span className="skill-tag">Tailwind CSS</span> */}
+                    {/* <span className="skill-tag">Bootstrap</span> */}
+                    {/* <span className="skill-tag">SASS</span> */}
                     <span className="skill-tag">Styled Components</span>
                   </div>
                 </div>
@@ -122,7 +122,7 @@ function App() {
                     <span className="skill-tag">Node.js</span>
                     <span className="skill-tag">PHP (Basics)</span>
                     <span className="skill-tag">CodeIgniter 4</span>
-                    <span className="skill-tag">Laravel (Basics)</span>
+                    {/* <span className="skill-tag">Laravel (Basics)</span> */}
                     <span className="skill-tag">RESTful APIs</span>
                     <span className="skill-tag">Axios</span>
                     <span className="skill-tag">JSON</span>
@@ -146,13 +146,15 @@ function App() {
                   <h3><Wrench className="inline-block mr-2" size={24} /> Tools & Platforms</h3>
                   <div className="skill-list">
                     <span className="skill-tag">Git & GitHub</span>
-                    <span className="skill-tag">CI/CD</span>
+                    {/* <span className="skill-tag">CI/CD</span> */}
                     <span className="skill-tag">VS Code</span>
                     <span className="skill-tag">Postman & Swagger</span>
-                    <span className="skill-tag">Firebase Hosting</span>
+                    <span className="skill-tag">Putty</span>
+                    <span className="skill-tag">FileZilla</span>
+                    <span className="skill-tag">Firebase</span>
                     <span className="skill-tag">Cloudways & Plesk</span>
                     <span className="skill-tag">XAMPP</span>
-                    <span className="skill-tag">Putty & Filezilla</span>
+
                   </div>
                 </div>
               </div>
